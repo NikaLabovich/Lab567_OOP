@@ -1,0 +1,11 @@
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/obj/Debug/netcoreapp2.1/oop567.csprojAssemblyReference.cache
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/obj/Debug/netcoreapp2.1/oop567.csproj.CoreCompileInputs.cache
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/obj/Debug/netcoreapp2.1/oop567.AssemblyInfoInputs.cache
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/obj/Debug/netcoreapp2.1/oop567.AssemblyInfo.cs
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/bin/Debug/netcoreapp2.1/oop567.deps.json
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/bin/Debug/netcoreapp2.1/oop567.runtimeconfig.json
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/bin/Debug/netcoreapp2.1/oop567.runtimeconfig.dev.json
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/bin/Debug/netcoreapp2.1/oop567.dll
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/bin/Debug/netcoreapp2.1/oop567.pdb
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/obj/Debug/netcoreapp2.1/oop567.dll
+/Users/veranikalabovich/Desktop/ооп/лабы/oop567/oop567/obj/Debug/netcoreapp2.1/oop567.pdb
